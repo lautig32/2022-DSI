@@ -1,5 +1,0 @@
-entrega 1er iteración: 14/07/2022
-deberán entregar una solución para los requerimientos:
-- La solución debe permitir que los usuarios inicien sesión.
-- La solución debe permitir registrar un nuevo usuario
-- La solución debe registrar incidentes por parte del usuario.
